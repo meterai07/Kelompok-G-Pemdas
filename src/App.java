@@ -148,14 +148,6 @@ public class App {
     }
 
     public static void kendaraan(int pilihan){
-        // Scanner input = new Scanner(System.in);
-        // System.out.println("1. Pertalite");
-        // System.out.println("2. Pertamax");
-        // System.out.println("3. Pertamax turbo");
-        // System.out.println("4. Dexlite");
-        // System.out.println("5. Dex\n");
-        // System.out.print("Masukkan pilihan bensin anda : ");
-        // int pilihan = input.nextInt();
         System.out.println("===================================================");
 
         switch (pilihan){
